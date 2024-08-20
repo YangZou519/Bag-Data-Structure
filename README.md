@@ -1,4 +1,4 @@
-### Bag Data Structure
+## Bag Data Structure
 
 This project implements a collection of data structures in C++, including `Bag`, `KeyedBag`, and `Set`, along with corresponding operations that can be performed on these data structures. Each data structure is implemented with an array-based approach, and a variety of operators are overloaded to perform operations like union, intersection, subtraction, and comparisons. The project also includes a `main.cpp` file that demonstrates how to use these data structures and their associated functions.
 
